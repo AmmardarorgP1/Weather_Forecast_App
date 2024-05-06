@@ -1,6 +1,6 @@
 # weather_forecast
 
-A new Flutter project.
+A basic Flutter Weather Forecast App project implementing Weather API.
 
 ## Getting Started
 
